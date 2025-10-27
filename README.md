@@ -2,7 +2,7 @@
 
 ---
 
-## 🧭 Executive Summary
+## 🧭 My Story
 
 I am a **Machine Learning Engineer** and **Data Analyst** who transforms raw data into intelligence and insight. My passion lies at the intersection of logic and creativity — building models that not only predict outcomes but tell meaningful stories.
 
