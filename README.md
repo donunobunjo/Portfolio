@@ -3,17 +3,20 @@
 ---
 
 ## 🧭 Executive Summary
-I am a passionate **IT educator, data analyst, and technology trainer** dedicated to helping learners understand and apply practical technology skills.  
-My work focuses on **Python programming, data analysis, web development, and networking fundamentals**.  
 
-Through teaching, projects, and community involvement, I aim to bridge the gap between technical theory and real-world application — preparing students and professionals for modern tech careers.
+I am a **Machine Learning Engineer** and **Data Analyst** who transforms raw data into intelligence and insight. My passion lies at the intersection of logic and creativity — building models that not only predict outcomes but tell meaningful stories.
+
+With expertise in **Python**, **SQL**, **Power BI**, and tools like **scikit-learn**, **pandas**, and **TensorFlow**, I design solutions that turn data-driven challenges into strategic opportunities. My projects span from **customer segmentation** and **predictive analytics** to **interactive dashboards** and **business intelligence systems**.
+
+Beyond technical skill, I bring clarity, curiosity, and commitment — ensuring every solution I build delivers measurable impact. Whether collaborating with teams or working independently, I aim to bridge the gap between code and purpose, data and decision.
+
+To me, data is more than numbers — it’s imagination waiting to become intelligence.
 
 ---
 
-## 💼 Detailed Portfolio
+## 💼 Portfolio Projects
 
-Below is a collection of featured projects, each highlighting specific areas of expertise and practical application.  
-The portfolio is organized as a **4 x 3 grid** of project cards.
+Below is a collection of featured projects, each highlighting specific areas of expertise and practical application.
 
 | **Project Title** | **Overview** | **Objectives** | **Read More** |
 |-------------------|---------------|----------------|----------------|
@@ -41,9 +44,8 @@ The portfolio is organized as a **4 x 3 grid** of project cards.
 ---
 
 ## 🚀 How to View
-1. Go to [https://yourusername.github.io](https://yourusername.github.io)  
-2. Explore the summary and project cards.  
-3. Click any “Read More” link to view the full project on GitHub or an external site.
+1. Go to [https://donunobunjo.github.io](https://donunobunjo.github.io)  
+
 
 ---
 
@@ -57,9 +59,9 @@ The portfolio is organized as a **4 x 3 grid** of project cards.
 
 ## 👤 Author
 **Don Unobunjo**  
-Chairman • Lecturer • IT Trainer • Data Enthusiast  
-📧 [your.email@example.com]  
-🌍 [https://yourusername.github.io](https://yourusername.github.io)
+data Analytics • Machine Learning • Trainer
+📧 [don.unobunjo@gmail.cpm.com]  
+🌍 [https://donunobunjo.github.io](https://donunobunjo.github.io)
 
 ---
 
