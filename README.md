@@ -18,11 +18,11 @@ To me, data is more than numbers — it’s imagination waiting to become intell
 
 Below is a collection of featured projects, each highlighting specific areas of expertise and practical application.
 
-| **Title** | **Overview** | **Objectives** | **Read More** |
+| **Title** | **Overview** | **Objectives** | **.** |
 |-------------------|---------------|----------------|----------------|
-| **Retail Sales & Inventory Analytics** | A Power BI dashboard analyzing inventory trends, sales performance, and stock optimization. | Gain insights into product turnover, profit margins, and supplier efficiency. | [🔗 View Project](#) |
+| **Customer segmentation and spending behavior analysis** | This project analyzes customer demographics and spending behavior using a dataset containing information about **customers**. Through a blend of **exploratory data analysis (EDA)**, **data visualization**, and **machine learning**, this project highlights how factors like income, age, and gender influence spending behavior - and how customers can be grouped into actionable market segments. | The primary aim is to discover spending trends, identify customer segments, and develop predictive models that help businesses better understand and target thier customers. | [🔗 Read More](#) |
 | **Customer Segmentation (Mall Customers Dataset)** | Machine learning model using K-Means and PCA to group customers based on spending behavior. | Identify customer clusters for targeted marketing strategies. | [🔗 View Project](#) |
-| **Python Loops & Decisions Manual** | A teaching manual designed for police cadets learning Python programming. | Explain looping structures, conditionals, and logic building. | [🔗 View Project](#) |
+| **Python Loops & Decisions Manual** | A teaching manual designed for police cadets learning Python programming. | Explain looping structures, conditionals, and logic building. | [🔗 Read More](#) |
 | **Executive Tech Skills Talk (2025)** | A presentation titled *“The Best Way to Get Into Tech in 2025”* focusing on skill relevance. | Guide beginners on sustainable tech career paths and portable skills. | [🔗 View Project](#) |
 | **Retail Forecast Dashboard** | Predictive Power BI dashboard using time series analysis for sales forecasting. | Identify sales patterns and inventory needs for better planning. | [🔗 View Project](#) |
 | **DNS Traffic Simulation (Packet Tracer)** | Networking demo showing DNS queries and traffic inspection with Wireshark. | Teach DNS resolution, traffic flow, and name-server behavior. | [🔗 View Project](#) |
