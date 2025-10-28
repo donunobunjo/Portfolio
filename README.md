@@ -23,15 +23,7 @@ Below is a collection of featured projects, each highlighting specific areas of 
 | **Customer segmentation and spending behavior analysis** | This project analyzes customer demographics and spending behavior using a dataset containing information about **customers**. Through a blend of **exploratory data analysis (EDA)**, **data visualization**, and **machine learning**, this project highlights how factors like income, age, and gender influence spending behavior - and how customers can be grouped into actionable market segments. | The primary aim is to discover spending trends, identify customer segments, and develop predictive models that help businesses better understand and target thier customers. | [🔗 Read More](#) |
 | **Customer Segmentation (Mall Customers Dataset)** | Machine learning model using K-Means and PCA to group customers based on spending behavior. | Identify customer clusters for targeted marketing strategies. | [🔗 View Project](#) |
 | **Python Loops & Decisions Manual** | A teaching manual designed for police cadets learning Python programming. | Explain looping structures, conditionals, and logic building. | [🔗 Read More](#) |
-| **Executive Tech Skills Talk (2025)** | A presentation titled *“The Best Way to Get Into Tech in 2025”* focusing on skill relevance. | Guide beginners on sustainable tech career paths and portable skills. | [🔗 View Project](#) |
-| **Retail Forecast Dashboard** | Predictive Power BI dashboard using time series analysis for sales forecasting. | Identify sales patterns and inventory needs for better planning. | [🔗 View Project](#) |
-| **DNS Traffic Simulation (Packet Tracer)** | Networking demo showing DNS queries and traffic inspection with Wireshark. | Teach DNS resolution, traffic flow, and name-server behavior. | [🔗 View Project](#) |
-| **Cybersecurity Attack Simulation (ARP Poisoning)** | A controlled Packet Tracer simulation of ARP spoofing for training purposes. | Demonstrate man-in-the-middle attacks and defense mechanisms. | [🔗 View Project](#) |
-| **Wireless CSMA/CA Demonstration** | A Wi-Fi simulation showing RTS/CTS/ACK frames and collision avoidance. | Explain how devices share wireless media efficiently. | [🔗 View Project](#) |
-| **Student Database Management (MySQL)** | SQL-based project for managing student data efficiently in a relational database. | Teach database normalization, CRUD operations, and queries. | [🔗 View Project](#) |
-| **Exploratory Data Analysis (EDA) Project** | Intermediate-level EDA showcasing data cleaning, visualization, and insights. | Extract meaningful trends and summaries from real-world datasets. | [🔗 View Project](#) |
-| **HTML, CSS & JS Responsive Page Demo** | Beginner-friendly responsive website using Flexbox and Grid layouts. | Teach basic web design and layout concepts. | [🔗 View Project](#) |
-| **Networking Essentials (IPv6 Practice)** | IPv6 configuration and routing simulation comparing IPv4 and IPv6 behavior. | Build practical understanding of addressing, routing, and dual-stack setup. | [🔗 View Project](#) |
+
 
 
 ---
