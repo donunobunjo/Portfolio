@@ -2,7 +2,7 @@
 
 ---
 
-## 🧭 My Storyyy(docs)
+## 🧭 My Story
 
 I am a **Data Analyst** and **Machine Learning Engineer** who transforms raw data into intelligence and insight. My passion lies at the intersection of logic and creativity — building models that not only predict outcomes but tell meaningful stories.
 
