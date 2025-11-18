@@ -14,7 +14,7 @@ To me, data is more than numbers — it’s imagination waiting to become intell
 
 ---
 
-## 💼 Portfolio Projects
+## 💼 Project Showcase
 
 Below is a collection of featured projects, each highlighting specific areas of expertise and practical application.
 
