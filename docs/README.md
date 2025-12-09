@@ -4,9 +4,9 @@
 
 ## 🧭 My Story
 
-I am a **Data Analyst** and **Machine Learning Engineer** who transforms raw data into intelligence and insight. My passion lies at the intersection of logic and creativity — building models that not only predict outcomes but tell meaningful stories.
+I am a **Data Analyst** and **A.I. Engineer** who transforms raw data into intelligence and insight. My passion lies at the intersection of logic and creativity — building models that not only predict outcomes but tell meaningful stories.
 
-With expertise in **Python**, **SQL**, **Power BI**, and tools like **scikit-learn**, **pandas**, and **TensorFlow**, I design solutions that turn data-driven challenges into strategic opportunities. My projects span from **customer segmentation** and **predictive analytics** to **interactive dashboards** and **business intelligence systems**.
+With expertise in **Python**, **SQL**, **Power BI**, and tools like **scikit-learn**, **pandas**, and **PyTorch**, I design solutions that turn data-driven challenges into strategic opportunities. My projects span from **customer segmentation** and **predictive analytics** to **interactive dashboards** and **business intelligence systems**.
 
 Beyond technical skill, I bring clarity, curiosity, and commitment — ensuring every solution I build delivers measurable impact. Whether collaborating with teams or working independently, I aim to bridge the gap between code and purpose, data and decision.
 
