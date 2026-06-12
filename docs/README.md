@@ -18,6 +18,13 @@ To me, data is more than numbers — it’s imagination waiting to become intell
 
 Below is a collection of featured projects, each highlighting specific areas of expertise and practical application.
 
+### <u>AI Projects</u>
+
+| **Title** | **Overview** | **Stack** | **Deployed** | **Repo** | **Read More** |
+|-------------------|---------------|----------------|----------------|----------------|---------------|
+| **AI-Powered Retrieval-Augmented Generation (RAG) Document Assistant** <br><br><br>**AskMyDocs**| This project is a full-stack AI-powered document question-answering system built using a modern Retrieval-Augmented Generation (RAG) architecture. The application allows users to upload PDF documents and interact with them conversationally through a chatbot interface. Instead of relying on general AI knowledge, the system retrieves relevant information directly from uploaded documents and generates context-aware responses in real time.     The application combines a **React frontend with a FastAPI backend and integrates ,llama3.2, local Large Language Models (LLMs) through Ollama. Uploaded documents are processed, converted into vector embeddings using `nomic-embed-text`, and stored in ChromaDB for semantic retrieval. The retrieved document context is then passed to llama3.2.**| Frontend: **React** <br><br>Backend: **FastAPI** <br><br>LLM: **Llama 3.2 3B via Ollama** <br><br>Embeddings: **nomic- embed-text** <br><br>Vector DB: **chromaDB** | [AskMy Docs](https://github.com/donunobunjo/S-P-Global-Dashboard/blob/main/S%26P%20Dashboard.pbix) <br><br><br>  | [GitHub](https://github.com/donunobunjo/AskMyDocs)  |
+
+
 ### <u>Business Intelligence(Power BI) Projects</u>
 
 | **Title** | **Overview** | **Objectives** | **Deployed** | **Repo** | **Read More** |
