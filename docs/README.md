@@ -1,12 +1,12 @@
-# 👋 **Don Unobunjo**
-
+# 👋  Unobunjo Don
+## AI Engineer • Data Scientist • Data Analyst • Trainer
 ---
 
 ## 🧭 My Story
 
-I am a **Data Analyst** and **A.I. Engineer** who transforms raw data into intelligence and insight. My passion lies at the intersection of logic and creativity — building models that not only predict outcomes but tell meaningful stories.
+I am a professional who transforms raw data into intelligence and insight. My passion lies at the intersection of logic and creativity — building models that not only predict outcomes but tell meaningful stories.
 
-With expertise in **Python**, **SQL**, **Power BI**, and tools like **scikit-learn**, **pandas**, and **PyTorch**, I design solutions that turn data-driven challenges into strategic opportunities. My projects span from **customer segmentation** and **predictive analytics** to **interactive dashboards** and **business intelligence systems**.
+With expertise in **Python**, **SQL**, **Power BI**, and tools like **scikit-learn**, **pandas**, and **PyTorch**, I design solutions that turn data-driven challenges into strategic opportunities. My projects span from **customer segmentation** and **predictive analytics** to **interactive dashboards**, **Deep Learning** and **business intelligence systems**.
 
 Beyond technical skill, I bring clarity, curiosity, and commitment — ensuring every solution I build delivers measurable impact. Whether collaborating with teams or working independently, I aim to bridge the gap between code and purpose, data and decision.
 
@@ -22,7 +22,7 @@ Below is a collection of featured projects, each highlighting specific areas of 
 
 | **Title** | **Overview** | **Stack** | **Deployed** | **Repo** | **Read More** |
 |-------------------|---------------|----------------|----------------|----------------|---------------|
-| **AI-Powered Retrieval-Augmented Generation (RAG) Document Assistant** <br><br><br>**AskMyDocs**| This project is a full-stack AI-powered document question-answering system built using a modern Retrieval-Augmented Generation (RAG) architecture. The application allows users to upload PDF documents and interact with them conversationally through a chatbot interface. Instead of relying on general AI knowledge, the system retrieves relevant information directly from uploaded documents and generates context-aware responses in real time.     The application combines a **React frontend with a FastAPI backend and integrates ,llama3.2, local Large Language Models (LLMs) through Ollama. Uploaded documents are processed, converted into vector embeddings using `nomic-embed-text`, and stored in ChromaDB for semantic retrieval. The retrieved document context is then passed to llama3.2.**| Frontend: **React** <br><br>Backend: **FastAPI** <br><br>LLM: **Llama 3.2 3B via Ollama** <br><br>Embeddings: **nomic- embed-text** <br><br>Vector DB: **chromaDB** | [AskMy Docs](https://github.com/donunobunjo/S-P-Global-Dashboard/blob/main/S%26P%20Dashboard.pbix) <br><br><br>  | [GitHub](https://github.com/donunobunjo/AskMyDocs)  |
+| **AI-Powered Retrieval-Augmented Generation (RAG) Document Assistant** <br><br><br>**AskMyDocs**| This project is a full-stack AI-powered document question-answering system built using a modern Retrieval-Augmented Generation (RAG) architecture. The application allows users to upload PDF documents and interact with them conversationally through a chatbot interface. Instead of relying on general AI knowledge, the system retrieves relevant information directly from uploaded documents and generates context-aware responses in real time.     The application combines a **React frontend with a FastAPI backend and integrates ,llama3.2, local Large Language Models (LLMs) through Ollama, LangChain for LLM interface and text chunking. Uploaded documents are processed, converted into vector embeddings using nomic-embed-text, and stored in ChromaDB for semantic retrieval. The retrieved document context is then passed to llama3.2.**| **Local AI deployment using Ollama** <br><br><br> **Llama3.2** <br><br><br> **FastAPI backend architecture** <br><br><br> **LangChain workflows** <br><br><br> **chromaDB Vector Database** <br><br><br> **React frontend development** <br><br><br>**Nomic-embed-text(Vector Embedding Model)**  | [Watch on Loom](https://www.loom.com/share/94ccaa0d632341979ee22a6ebd740387) <br><br><br>  | [GitHub](https://github.com/donunobunjo/AskMyDocs)  |
 
 
 ### <u>Business Intelligence(Power BI) Projects</u>
@@ -42,8 +42,8 @@ Below is a collection of featured projects, each highlighting specific areas of 
 
 
 ## 👤 Author
-**Don Unobunjo**  
-data Analytics • Machine Learning • Trainer <br>
+**Unobunjo Don**  
+ <br>
 don.unobunjo@gmail.com <br>
 +234 803 889 1940
 
