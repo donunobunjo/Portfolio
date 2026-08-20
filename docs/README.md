@@ -1,16 +1,96 @@
 # 👋  Unobunjo Don
-## AI Engineer • LLM Fine-Tuning • Data Analyst • Trainer
+## AI/Machine Learning Engineer • Data Analyst • Trainer
 ---
 
 ## 🧭 My Story
 
-I am a professional who transforms raw data into intelligence and insight. My passion lies at the intersection of logic and creativity — building models that not only predict outcomes but tell meaningful stories.
+I build **AI-powered applications that solve practical problems**, with a focus on Large Language Models, Generative AI, NLP, Machine Learning, and intelligent software systems.
 
-With expertise in **Python**, **SQL**, **Power BI**, **GenAI** , **AgenticAI** **LLM Fine-Tuning** and tools like **scikit-learn**, **pandas**, and **PyTorch**, I design solutions that turn data-driven challenges into strategic opportunities. My projects span from **customer segmentation** and **predictive analytics** to **interactive dashboards**, **Deep Learning** and **business intelligence systems**.
+My portfolio demonstrates my journey from **data → models → AI applications → deployment**, combining machine learning expertise with strong software engineering skills.
 
-Beyond technical skill, I bring clarity, curiosity, and commitment — ensuring every solution I build delivers measurable impact. Whether collaborating with teams or working independently, I aim to bridge the gap between code and purpose, data and decision.
+## 🤖 LLM Fine-Tuning & Multilingual AI
 
-To me, data is more than numbers — it’s imagination waiting to become intelligence.
+### BANKING77 Multilingual AI
+
+Translated the BANKING77 intent-classification dataset into major Nigerian languages using the **NCAIR1/N-ATLaS Large Language Model**.
+
+**Focus:**
+LLMs • NLP • Dataset Engineering • Multilingual AI • Intent Classification
+
+This project explores how modern language models can be adapted to better support **African languages and local financial-service use cases**.
+
+---
+
+## 📚 RAG Document Question-Answering System
+
+Built a full-stack **Retrieval-Augmented Generation (RAG)** system that allows users to interact with documents using natural language.
+
+**Technologies:**
+Python • LangChain • Embeddings • FAISS • Local LLMs • FastAPI
+
+The system combines semantic search with generative AI to retrieve relevant information from documents before generating answers, reducing dependence on the model's internal knowledge.
+
+
+
+## 💳 Credit Default Prediction
+
+Developed a machine learning solution for predicting the likelihood of credit default.
+
+**Focus:**
+Exploratory Data Analysis • Feature Engineering • Classification • Model Evaluation
+
+The project demonstrates an end-to-end machine learning workflow—from understanding the dataset and engineering meaningful features to training and evaluating predictive models.
+
+---
+
+## 👥 Customer Segmentation
+
+Applied unsupervised machine learning techniques to identify meaningful customer groups based on behavioral and demographic characteristics.
+
+**Focus:**
+EDA • Feature Engineering • Clustering • Customer Analytics • Data Visualization
+
+The goal is to transform raw customer data into actionable segments that can support business decision-making.
+
+---
+
+## 📊 Retail Analytics Dashboard
+
+Built an interactive **Power BI analytics dashboard** for exploring retail performance and business trends.
+
+**Focus:**
+SQL • Data Cleaning • EDA • Data Visualization • Power BI • Business Intelligence
+
+The project demonstrates how raw business data can be transformed into interactive dashboards that support data-driven decisions.
+
+---
+
+## ⚡ S&P Global Analytics Dashboard
+
+Developed an analytics dashboard for exploring and communicating business data through interactive visualizations.
+
+**Technologies:**
+Power BI • Data Analysis • Data Visualization • Business Intelligence
+
+---
+
+## 🌾 Agricultural Technology Platform
+
+Contributed to a digital platform supporting **smallholder farmers**, integrating backend services and APIs to deliver agricultural content and extension resources.
+
+The platform supported **1,000+ smallholder farmers**, while API and application optimizations helped reduce response times by approximately **20%**. 
+
+**Focus:**
+Software Engineering • REST APIs • Backend Development • Agricultural Technology
+
+---
+
+# What I Build
+
+**LLM Applications** → Fine-tuning → RAG → AI Agents → Intelligent Search → NLP → Machine Learning → Data Analytics → Production APIs
+
+I'm particularly interested in building AI systems that move beyond notebooks and prototypes into **reliable, useful products that solve real-world problems**.
+
 
 ---
 
