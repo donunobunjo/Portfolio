@@ -1,5 +1,5 @@
 # 👋  Unobunjo Don
-## AI/Machine Learning Engineer • Data Analyst • Trainer
+## AI/ML Engineer • Data Analyst • Trainer
 ---
 
 ## 🧭 My Story
@@ -8,9 +8,9 @@ I build **AI-powered applications that solve practical problems**, with a focus 
 
 My portfolio demonstrates my journey from **data → models → AI applications → deployment**, combining machine learning expertise with strong software engineering skills.
 
-## 🤖 LLM Fine-Tuning & Multilingual AI
+## 🤖 Multilingual Banking77 Dataset(Yoruba, Ibo and Hausa)
 
-### BANKING77 Multilingual AI
+### BANKING77 Multilingual
 
 Translated the BANKING77 intent-classification dataset into major Nigerian languages using the **NCAIR1/N-ATLaS Large Language Model**.
 
@@ -105,7 +105,7 @@ Below is a collection of featured projects, each highlighting specific areas of 
 
 | **Title** | **Overview** | **Stack** | **Deployed** | **Repo** | **Read More** |
 |-------------------|---------------|----------------|----------------|----------------|---------------|
-|**Banking77 Nigerian Languages Translation**| This project focuses on improving multilingual natural language processing (NLP) resources by translating the **BANKING77**(on Hugging Face) intent classification dataset into major Nigerian languages using the **NCAIR1/N-ATLaS** Large Language Model (LLM on Hugging Face).| **Python** <br><br><br> **PyTorch** <br><br><br> **Hugging Face Datasets** <br><br><br> **Transformers** <br><br><br> **NCAIR1/N-ATLaS Large Language Model** <br><br><br> **Pandas** <br><br><br>**Natural Language Processing (NLP)**  | [Hugging Face](https://huggingface.co/datasets/Donoe/multilingual-nigerian-banking77) <br><br><br>  | [Google Colab](https://colab.research.google.com/drive/10YAUvFF5LUB1S3llYa6FFLJZNwG2pWm0?usp=sharing)  |
+|**Banking77 Nigerian Languages Translation**| This project focuses on improving multilingual natural language processing (NLP) resources by translating the **BANKING77**(on Hugging Face) intent classification dataset into major Nigerian languages using the **NCAIR1/N-ATLaS** Large Language Model (LLM on Hugging Face).| **Python** <br><br><br> **PyTorch** <br><br><br> **Hugging Face Datasets** <br><br><br> **Transformers** <br><br><br> **NCAIR1/N-ATLaS Large Language Model** <br><br><br> **Pandas** <br><br><br>**Natural Language Processing (NLP)**  | [Dataset on Hugging Face](https://huggingface.co/datasets/Donoe/multilingual-nigerian-banking77) <br><br><br>  | [Google Colab](https://colab.research.google.com/drive/10YAUvFF5LUB1S3llYa6FFLJZNwG2pWm0?usp=sharing)  |
 | **AI-Powered Retrieval-Augmented Generation (RAG) Document Assistant** <br><br><br>**AskMyDocs**| This project is a full-stack AI-powered document question-answering system built using a modern Retrieval-Augmented Generation (RAG) architecture. The application allows users to upload PDF documents and interact with them conversationally through a chatbot interface. Instead of relying on general AI knowledge, the system retrieves relevant information directly from uploaded documents and generates context-aware responses in real time.     The application combines a **React frontend with a FastAPI backend and integrates ,llama3.2, local Large Language Models (LLMs) through Ollama, LangChain for LLM interface and text chunking. Uploaded documents are processed, converted into vector embeddings using nomic-embed-text, and stored in ChromaDB for semantic retrieval. The retrieved document context is then passed to llama3.2.**| **Local AI deployment using Ollama** <br><br><br> **Llama3.2** <br><br><br> **FastAPI backend architecture** <br><br><br> **LangChain workflows** <br><br><br> **chromaDB Vector Database** <br><br><br> **React frontend development** <br><br><br>**Nomic-embed-text(Vector Embedding Model)**  | [Watch on Loom](https://www.loom.com/share/94ccaa0d632341979ee22a6ebd740387) <br><br><br>  | [GitHub](https://github.com/donunobunjo/AskMyDocs)  |
 
 
@@ -134,4 +134,4 @@ don.unobunjo@gmail.com <br>
 
 ---
 
-© 2025 Don Unobunjo. All Rights Reserved.
+© 2026 Don Unobunjo. All Rights Reserved.
