@@ -19,7 +19,7 @@ LLMs • NLP • Dataset Engineering • Multilingual AI • Intent Classificati
 
 This project explores how modern language models can be adapted to better support **African languages and local financial-service use cases**.
 
-[Hugging Face](https://huggingface.co/datasets/Donoe/multilingual-nigerian-banking77)
+[Dataset on Hugging Face](https://huggingface.co/datasets/Donoe/multilingual-nigerian-banking77)
 
 ---
 
