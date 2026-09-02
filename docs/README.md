@@ -8,7 +8,7 @@ I build **AI-powered applications that solve practical problems**, with a focus 
 
 My portfolio demonstrates my journey from **data → models → AI applications → deployment**, combining machine learning expertise with strong software engineering skills.
 
-## 🤖 Multilingual Banking77 Dataset(Yoruba, Ibo and Hausa)
+## 🤖 Multilingual Banking77 Dataset(Yoruba, Igbo and Hausa)
 
 ### BANKING77 Multilingual
 
