@@ -13,7 +13,7 @@ My portfolio demonstrates my journey from **data → models → AI applications 
 
 # 💼 Project Portfolio
 
-## 🤖 AI & Generative AI Projects
+## 🤖 Agentic AI & Generative AI Projects
 
 ### 1. DocuMind AI — Intelligent Document Q&A Platform
 
@@ -95,7 +95,7 @@ The application combines a **React frontend** with a **FastAPI backend**, local 
 
 ## 📊 Business Intelligence & Power BI Projects
 
-### 3. S&P Global Analytics Dashboard
+### 4. S&P Global Analytics Dashboard
 
 #### Overview
 This project focuses on exploratory data analysis and interactive visualization of the **S&P Global stock market dataset**, covering five years of historical stock prices from **2013–2018** for companies in the S&P 500 index.
@@ -117,7 +117,7 @@ The analysis explores stock price movements, trading activity, volatility, and m
 
 ---
 
-### 4. Retail Analytics Dashboard
+### 5. Retail Analytics Dashboard
 
 #### Overview
 The **Retail Analytics Power BI Dashboard** provides end-to-end insights into store performance, pricing, sales trends, demand, and inventory management.
@@ -141,7 +141,7 @@ The project demonstrates how raw business data can be transformed through **data
 
 ## 🧠 Machine Learning Projects
 
-### 5. Customer Segmentation & Spending Behavior Analysis
+### 6. Customer Segmentation & Spending Behavior Analysis
 
 #### Overview
 This project analyzes customer demographics and spending behavior using **exploratory data analysis, data visualization, and machine learning**.
@@ -168,7 +168,7 @@ The goal is to transform raw customer data into actionable segments that can hel
 
 ---
 
-### 6. Credit Default Analysis & Prediction
+### 7. Credit Default Analysis & Prediction
 
 #### Overview
 This project analyzes and predicts **loan default risk** using financial and demographic information.
@@ -194,7 +194,7 @@ The project demonstrates an end-to-end machine learning workflow, including expl
 
 ## 🌾 Software Engineering & Agricultural Technology
 
-### 7. Agricultural Technology Platform
+### 8. Agricultural Technology Platform
 
 #### Overview
 Contributed to a digital platform supporting **smallholder farmers**, integrating backend services and APIs to deliver agricultural content and extension resources.
