@@ -1,5 +1,5 @@
 <p align="right">
-  <a href="https://drive.google.com/file/d/1OEciDHfUzEhnkrhlSo9Ycyjl34V2ZXem/view?usp=drive_link">📄 View My Resume</a>
+  <a href="https://drive.google.com/file/d/1UYnJ1lN99QUeiX7TZSxLsbdW5c4Af61W/view?usp=sharing">📄 View My Resume</a>
 </p>
 
 # 👋 Unobunjo Don
@@ -34,6 +34,33 @@ My portfolio demonstrates my journey from **data → models → AI applications 
 - **GitHub:** [Repo](https://github.com/donunobunjo/DocuMinde_AI.git)
 - **Live Demo:** [Click](https://documind-ai-vavu.onrender.com)
 - 
+
+---
+
+### NaijaBankGPT — Multilingual Nigerian Banking AI Agent
+
+> **Status: Work in Progress**
+
+#### Overview
+NaijaBankGPT is a multilingual AI agent being developed to help users get banking guidance in English, Yoruba, Hausa, and Igbo. It combines a fine-tuned banking-intent classifier with a planned translation and response-generation workflow, orchestrated using LangGraph. The project is still in development; translation and full response-generation integration are not yet complete.
+
+#### Stack
+- Python
+- PyTorch
+- Hugging Face Transformers
+- NaijaMultilingualBank (fine-tuned XLM-RoBERTa intent classifier)
+- NCAIR1/N-ATLaS (planned translation integration)
+- LangGraph
+- Groq / Llama (planned response generation)
+- Gradio (planned chatbot interface)
+- Hugging Face Hub
+- python-dotenv
+
+#### Links
+- **GitHub:** 
+- **Hugging Face Model:** [NaijaMultilingualBank](https://huggingface.co/Donoe/NaijaMultilingualBank)
+- **Hugging Face Dataset:** [Multilingual Nigerian Banking77](https://huggingface.co/datasets/Donoe/multilingual-nigerian-banking77)
+- **Live Demo:** Not available yet — work in progress
 
 ---
 
