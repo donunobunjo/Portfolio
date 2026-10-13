@@ -3,7 +3,7 @@
 </p>
 
 # 👋 Unobunjo Don
-## AI/ML Engineer • Data Analyst • Trainer
+## AI/ML Engineer • Data Scientist • Trainer
 
 I build **AI-powered applications and data solutions that solve practical problems**, with a focus on Large Language Models, Generative AI, NLP, Machine Learning, Data Analytics, Business Intelligence, and intelligent software systems.
 
