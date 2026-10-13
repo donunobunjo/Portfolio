@@ -57,7 +57,7 @@ NaijaBankGPT is a multilingual AI agent being developed to help users get bankin
 - python-dotenv
 
 #### Links
-- **GitHub:** 
+- **GitHub:** [Repo](https://github.com/donunobunjo/NaijaBankGPT.git)
 - **Hugging Face Model:** [NaijaMultilingualBank](https://huggingface.co/Donoe/NaijaMultilingualBank)
 - **Hugging Face Dataset:** [Multilingual Nigerian Banking77](https://huggingface.co/datasets/Donoe/multilingual-nigerian-banking77)
 - **Live Demo:** Not available yet — work in progress
