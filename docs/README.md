@@ -22,7 +22,7 @@ My portfolio demonstrates my journey from **data → models → AI applications 
 
 #### Stack
 - Hugging Face
-- BAAI/bge-small-en-v1.5 (Embedding Model)
+- BAAI/bge-small-en-v1.5 later switched to gemini-embedding-001 to save cost (Embedding Model)
 - openai/gpt-oss-20b(LLM)
 - React
 - FastAPI
